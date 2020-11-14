@@ -1,0 +1,1 @@
+gcc -o 0x06_arm_32_hacking_char_pointer 0x06_arm_32_hacking_char_pointer.c
