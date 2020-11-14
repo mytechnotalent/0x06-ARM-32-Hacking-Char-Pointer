@@ -1,7 +1,7 @@
 ![image](https://github.com/mytechnotalent/0x06_arm_32_hacking_char_pointer/blob/main/RPI32AAHCP.png)
 
 # 0x06_arm_32_hacking_char_pointer
-About ARM 32-bit Raspberry Pi Hacking Char Pointer example in Kali Linux.
+ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
 
 ## Schematic
 ![image](https://github.com/mytechnotalent/0x06_arm_32_hacking_char_pointer/blob/main/schematic.png?raw=true)
