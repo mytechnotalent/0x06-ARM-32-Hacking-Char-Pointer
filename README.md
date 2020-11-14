@@ -63,7 +63,7 @@ aaa
 s main
 vv
 ```
-![image]()
+![image](https://github.com/mytechnotalent/0x06_arm_32_hacking_char_pointer/blob/main/1.png?raw=true)
 
 ## STEP 11: Run Radare2 - Debug Step 2 [Examine char pointer]
 ```
@@ -108,7 +108,7 @@ r2 -w ./0x06_arm_32_hacking_char_pointer
 [0x000003fc]> s main
 [0x000003fc]> vv
 ```
-![image]()
+![image](https://github.com/mytechnotalent/0x06_arm_32_hacking_char_pointer/blob/main/2.png?raw=true)
 ```
 q
 [0x0000053c]> w hacked world @0x0000057c
